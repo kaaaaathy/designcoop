@@ -1,11 +1,10 @@
 {
-	"title": "computational poetics",
-	"about" : "computational poetics",
+	"title": "design for cooperation",
+	"about" : "design for cooperation",
 	"menu" : {
 		"✻ Design for Cooperation ✻" : "info.html",
-		"Syllabus" : "syllabus.html",
-		"Projects" : "projects.html",
-		"Topics" : "topics.html",
-		"Workshops" : "workshops.html"
+		"Syllabus" : "https://docs.google.com/document/d/1UvRqBWlI85WmDMPAbzPjWDqsgwiKCdpwCG-VQRrzbas/edit?usp=sharing",
+		"Projects" : "https://docs.google.com/document/d/1AXxImENdjPpA1Ug9Lb1dNxhQD3O5BLBVWnShd7y_dgQ/edit?usp=sharing",
+		"Topics" : "topics.html"
 		}
 }
